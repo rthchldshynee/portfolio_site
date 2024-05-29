@@ -26,7 +26,7 @@ const About = () => {
           <button className="like-button">Like 4.5k</button>
           <button className="follow-button">Follow @rthchldshynee</button>
           <button className="resume-link">
-            <a href="myresume.pdf" target="_blank" rel="noopener noreferrer">Download My Resume</a></button>
+            <a download="RothChildResume" href="/myresume.pdf" rel="noopener noreferrer">Download My Resume</a></button>
         </div>
         
       </div>
