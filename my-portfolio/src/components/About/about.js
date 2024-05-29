@@ -8,7 +8,7 @@ import photo5 from '../../asset/photo5.jpg';
 
 const About = () => {
   return (
-    <div className="about-container">
+    <div id='about' className="about-container">
       <div className="about-content">
         <h1>About me</h1>
         <p className="subtitle">I'm a Software Engineering Technician Student at Centennial Colleges and I am proud to be Filipino.</p>
