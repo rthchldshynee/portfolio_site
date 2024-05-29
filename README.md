@@ -1,2 +1,2 @@
-# portfolio_site
-For Assignment 1  Rothchild's Portfolio
+# My Portfolio
+For Assignment 1 - Rothchild's Portfolio COMP229
